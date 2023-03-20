@@ -35,7 +35,7 @@
     "react-dropzone": "^3.9.2",
     "react-icons": "^2.2.3",
     "react-overlays": "^0.6.12",
-    "remarkable": "^1.7.1"
+    "remarkable": "^1.7.2"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
